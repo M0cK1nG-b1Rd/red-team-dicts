@@ -6,6 +6,8 @@
 
 [BS-Exploits.md](https://github.com/No-Github/1earn/blob/9e1cb7a05eb6cec7e432810be457618192bda4ab/1earn/Security/RedTeam/Web%E5%AE%89%E5%85%A8/BS-Exploits.md)
 
+此时最新的commit为[9e1cb7a05eb6cec7e432810be457618192bda4ab](https://github.com/No-Github/1earn/commit/9e1cb7a05eb6cec7e432810be457618192bda4ab)
+
 感谢！
 
 
