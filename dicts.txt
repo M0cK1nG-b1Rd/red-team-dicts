@@ -33,6 +33,7 @@ seeyon/htmlofficeservlet
 seeyon/index.jsp
 ispirit/login_code.php
 general/hr/manage/query/delete_cascade.php?condition_cascade=select%20if((substr(user(),1,1)=%27r%27),1,power(9999,99))
+jmx-console
 general/appbuilder/web/calendar/calendarlist/getcallist
 #中间件
 v2/api/product/manger/getInfo
